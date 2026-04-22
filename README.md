@@ -1,6 +1,6 @@
 # Revenue-fluctuation-and-driver-analysis---Cafe-business
 
-Executive Summary
+## Executive Summary
 
 Revenue performance is primarily driven by product mix and order volume.
 	•	The revenue peak in June was driven by a higher proportion of mid- to high-priced products
@@ -10,7 +10,7 @@ This shows that revenue is not solely dependent on transaction volume, but also 
 
 ⸻
 
-Business Problem
+## Business Problem
 
 Identify the key drivers behind revenue fluctuations:
 	•	Order volume
@@ -19,7 +19,7 @@ Identify the key drivers behind revenue fluctuations:
 
 ⸻
 
-Dataset Overview
+## Dataset Overview
 
 Transactional café sales data including:
 	-	Transaction date
