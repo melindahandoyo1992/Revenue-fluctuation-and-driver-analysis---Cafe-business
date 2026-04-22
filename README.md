@@ -13,9 +13,9 @@ This shows that revenue is not solely dependent on transaction volume, but also 
 ## Business Problem
 
 Identify the key drivers behind revenue fluctuations:
-	•	Order volume
-	•	Product mix
-	•	Pricing
+- Order volume
+- Product mix
+- Pricing
 
 ⸻
 
