@@ -22,24 +22,25 @@ Identify the key drivers behind revenue fluctuations:
 Dataset Overview
 
 Transactional café sales data including:
-	•	Transaction date
-	•	Item purchased
-	•	Price per unit
-	•	Quantity
+	-	Transaction date
+	- 	Item purchased
+	-	Price per unit
+	-	Quantity
 
 ⸻
 
 Analytical Approach
 
 A driver-based framework was used:
-	•	Order Volume → number of transactions
-	•	Product Mix → composition of items sold (price & category)
+	-	Order Volume → number of transactions
+	-	Product Mix → composition of items sold (price & category)
+	
 
 Analysis included:
-	•	Monthly comparison (Feb, Mar, Jun, Jul)
-	•	Volume trend analysis
-	•	Price distribution analysis
-	•	Item-level revenue contribution
+	-	Monthly comparison (Feb, Mar, Jun, Jul)
+	-	Volume trend analysis
+	-	Price distribution analysis
+	-	Item-level revenue contribution
 
 ⸻
 
